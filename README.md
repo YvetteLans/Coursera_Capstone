@@ -2,7 +2,7 @@
 This repository is for my Coursera Capstone Project. 
 
 It contains: 
-- The Notebook that shows the code
-- A full report 
-- A presentation
+- A Jupyter notebook with all the code
+- A full report in PDF
+- A presentation in PDF
 - Some other assignments of this course. 
